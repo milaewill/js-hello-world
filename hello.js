@@ -4,7 +4,22 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello world!");
+
+// console.log(5)
+// console.log(5 + 7)
+
+// console.log("Oh")
+// console.log("Hello")
+// console.log("World!!")
+
+// console.log("Hello " + "World!")
+
+// console.log('This is a quote, "Qouth the Raven"')
+
+// console.log('Thanks for this amazing opportunity LaunchCode!' + ' I am very excited to start my coding journey!' + ' -Mila')
+
+
 
 /*  
 Next, PLAY! 
